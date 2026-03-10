@@ -24,12 +24,7 @@
 </p>
 <h2 align="center"><u><b>Base de conocimientos</b></u></h2>
 
-
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=romero374&theme=dracula&column=7" alt="andermendoza" /></a> </p>
-
 <!--- trophy (start) -->
-
 
 </p>        
 <!--h1 sin borde inferior -->
